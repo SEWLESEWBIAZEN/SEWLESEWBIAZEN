@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Sewlesew, a Pro Full-stack developer.
 
 
-- 🔭 I’m currently working on Bankify(Side/Personal Project), LCMS(industrial project)
+- 🔭 I’m currently working on Bankify(Side/Personal Project), and LCMS(industrial project)
   
 - 🌱 I’m currently mastering/learning Nodejs, ASP.Net Core and MongoDB
   
@@ -16,4 +16,15 @@
 - 📫 You can contact me through +251 961 718 044 or via sewlesewbiazen65@gmail.com
   
 - ⚡ Fun fact: remote job hunter, start up enthusiast and challenge seeker.
+
+
+
+I am looking for enthusiastic partner to build a team from scratch. The team will be the startup team.
+The team may be entitled as:
+- business team
+- project team
+- technical team
+- startup team
+- and your ideas 
+
 
