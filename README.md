@@ -25,6 +25,10 @@ The team may be entitled as:
 - project team
 - technical team
 - startup team
-- and your ideas 
+- and your ideas
+
+
+  ## Contact Me with above addresses
+  ### Good Bye!
 
 
