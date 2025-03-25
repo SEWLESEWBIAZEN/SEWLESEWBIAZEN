@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sewlesew, a Pro Full-stack developer.
+## Hi there 👋 I am Sewlesew, a Dynamo Full-stack developer.
 
 
 - 🔭 I’m currently working on Bankify(Side/Personal Project), and LCMS(industrial project)
