@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Bankify(Side/Personal Project), and LCMS(industrial project)
   
-- 🌱 I’m currently mastering/learning Nodejs, ASP.Net Core and MongoDB
+- 🌱 I’m currently working with Nodejs, ASP.Net Core and MongoDB
   
 - ⚡ I am expert in React, Nextjs, TailwindCSS and frontend staffs.
   
