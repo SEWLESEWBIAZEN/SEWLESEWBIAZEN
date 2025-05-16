@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Sewlesew, a Dynamo Full-stack developer.
 
 
-- 🔭 I’m currently working on Bankify(Side/Personal Project), and LCMS(industrial project)
+- 🔭 I’m finished Bankify(Side/Personal Project), and LCMS(industrial project)
+- 🔭 I'm currently mastering python, learning AI & ML,and building LLMs.
   
 - 🌱 I’m currently working with Nodejs, ASP.Net Core and MongoDB
   
