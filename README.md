@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sewlesew, a Dynamo Full-stack developer.
+## Hi there 👋 I am Sewlesew, a Software developer who have been working on both frontend and backend for the past three and a half years.
 
 
 - 🔭 I'm currently mastering python, learning AI & ML,and building LLMs.
