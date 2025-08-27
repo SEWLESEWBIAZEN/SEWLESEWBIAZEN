@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently mastering python, learning AI & ML,and building LLMs.
-- 🔭 I’ve finished Bankify(Side/Personal Project), and LCMS(industrial project)
+- 🔭 I’ve finished Gojo as Freelance, Bankify and fluent-quest as (Side/Personal Project), and LCMS(industrial project)
   
 - 🌱 I’m currently working with Nodejs, ASP.Net Core and MongoDB
   
