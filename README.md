@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently working with Nodejs, ASP.Net Core and MongoDB
   
-- ⚡ I am expert in React, Nextjs, TailwindCSS and frontend staffs.
+- ⚡ I am  in React, Nextjs, TailwindCSS and frontend staffs.
   
 - 👯 I’m looking to collaborate on industrial projects
   
