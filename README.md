@@ -6,11 +6,11 @@ Full-Stack Developer | React | Next.js | ASP.NET | NESTJS
 
 - 🔭 I'm currently experiencing Docker, Aspire.Net, Linux, python, learning AI & ML,and building LLMs.
 - 🔭 I’ve finished:
-:fire: C9 Portal(Enterprize project),
-:fire: EAGPBTU(ERP for an institution - ongoing ), 
-:fire: Gojo as Freelance, Bankify and 
-:fire: fluent-quest as (Side/Personal Project), and
- :fire: LCMS(industrial project)
+⚡ C9 Portal(Enterprize project),
+⚡ EAGPBTU(ERP for an institution - ongoing ), 
+⚡ Gojo as Freelance, Bankify and 
+⚡ fluent-quest as (Side/Personal Project), and
+⚡ LCMS(industrial project)
   
 - 🌱 I’m currently working with Nodejs, ASP.Net Core and MongoDB
   
