@@ -11,6 +11,7 @@
 - 📫 You can contact me through +251 961 718 044 or via sewlesewbiazen65@gmail.com
   
 - ⚡ Fun fact: remote job hunter, start up enthusiast and challenge seeker.
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 I am looking for enthusiastic partner to build a team from scratch. The team will be the startup team.
 The team may be entitled as:
