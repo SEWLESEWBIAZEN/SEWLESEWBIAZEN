@@ -2,8 +2,6 @@
 
 Full-Stack Developer | React | Next.js | ASP.NET | NESTJS 
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 - 🔭 I'm currently experiencing Docker, Aspire.Net, Linux, python, learning AI & ML,and building LLMs.
 - 🔭 I’ve finished:
 ⚡ C9 Portal(Enterprize project),
