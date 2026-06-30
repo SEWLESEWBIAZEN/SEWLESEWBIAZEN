@@ -2,15 +2,17 @@
 
 Full-Stack Developer | React | Next.js | ASP.NET | NESTJS 
 
-- 🔭 I'm currently experiencing Docker, Aspire.Net, Linux, python, learning AI & ML,and building LLMs.
+- 🔭 I'm currently experiencing Docker, Aspire.Net, Linux, python, n8n, AI agents, claude code, claude design, LLMs, AI & ML,and building LLMs.
 - 🔭 I’ve finished:
+⚡ SACCO's core banking and ERP solutions - currently working on loan management, membership management, HR, and payroll management modules.
+⚡ ZelakiLearn.com - multi-instructor course market place
 ⚡ C9 Portal(Enterprize project),
-⚡ EAGPBTU(ERP for an institution - ongoing ), 
+⚡ EAGPBTU(ERP for an institution, 
 ⚡ Gojo as Freelance, Bankify and 
 ⚡ fluent-quest as (Side/Personal Project), and
 ⚡ LCMS(industrial project)
   
-- 🌱 I’m currently working with Nodejs, ASP.Net Core and MongoDB
+- 🌱 I’m currently working with Nodejs, ASP.Net Core, MS SQL server, PostgreSQl, Redis, RabbitMQ with outbox pattern, and gRPC 
   
 - ⚡ I am  in React, Nextjs, TailwindCSS and frontend staffs.
   
