@@ -1,42 +1,86 @@
-# 🚀 Sewlesew Biazen
+# Hi, I'm Sewlesew Biazen 👋
 
-Full-Stack Developer | React | Next.js | ASP.NET | NESTJS 
+### Full-Stack Software Engineer
 
-🔭 I'm currently experiencing Docker, Aspire.Net, Linux, Redis, RabbitMQ, pm2, hetzner, docker containers, python, n8n, AI agents, claude code, claude design, LLMs, AI & ML,and building LLMs.
-⚡ Working on SACCO's core banking and ERP solutions - currently working on loan management, membership management, HR, and payroll management modules.
+**TypeScript · React · Next.js · Node.js · .NET · PostgreSQL**
 
-🔭 I’ve finished:
-⚡ ZelakiLearn.com - multi-instructor course market place
-⚡ C9 Portal(Enterprize project),
-⚡ EAGPBTU(ERP for an institution, 
-⚡ Gojo as Freelance, Bankify and 
-⚡ fluent-quest as (Side/Personal Project), and
-⚡ LCMS(industrial project)
-  
-- 🌱 I’m currently working with Nodejs, ASP.Net Core, MS SQL server, PostgreSQl, Redis, RabbitMQ with outbox pattern, and gRPC 
-  
-- ⚡ I am  in React, Nextjs, TailwindCSS and frontend staffs.
-  
-- 📫 You can contact me through +251 961 718 044 or via sewlesewbiazen65@gmail.com
-  
-- ⚡ Fun fact: remote job hunter, start up enthusiast and challenge seeker.
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+I build production-grade web applications and enterprise systems, with a focus on backend engineering, system architecture, integrations, and reliable deployment.
 
-I am looking for enthusiastic partner to build a team from scratch. The team will be the startup team.
-The team may be entitled as:
-- business team
-- project team
-- technical team
-- startup team
-- and your ideas
+### What I work with
 
-  ## Contact Me with above addresses
-  ### Thank you for checking on my profile. Please follow!
+**Frontend**
 
+* React
+* Next.js
+* TypeScript
+* Redux Toolkit
+* Tailwind CSS
 
+**Backend**
+
+* Node.js / Express
+* ASP.NET Core
+* REST APIs
+* Authentication & Authorization
+
+**Data & Messaging**
+
+* PostgreSQL
+* SQL Server
+* MongoDB
+* Redis
+* RabbitMQ
+
+**Architecture**
+
+* Clean Architecture
+* Microservices
+* Event-Driven Systems
+* API Design
+* Distributed Systems
+
+**Infrastructure**
+
+* Docker
+* Linux
+* Nginx
+* CI/CD
+* Prometheus
+* Grafana
+* Loki
+
+**AI**
+
+* RAG
+* AI Agents
+* Tool Calling
+* AI Integrations
+* AI-Assisted Development
+
+### Selected Work
+
+🔹 **ZelakiLearn** — Production Learning Management System
+Full-stack LMS with payments, authentication, video delivery, instructor commissions, PostgreSQL, Docker and production monitoring.
+
+🔹 **Enterprise Workflow Systems**
+Business workflow and approval systems involving enterprise integrations, SSO, SAP and automated business processes.
+
+🔹 **Legal Case Management System**
+Enterprise case and document management platform supporting legal workflows, analytics and integrations.
+
+🔹 **AI & Automation Systems**
+Experiments and production-oriented work involving RAG, AI agents, workflow automation and tool-based integrations.
+
+---
+
+### Engineering Interests
+
+I’m particularly interested in:
+
+* System Design
+* Backend Engineering
+* Distributed Systems
+* AI Engineering
+* Developer Productivity
+* Cloud & Infrastructure
+* Reliable Software Systems
