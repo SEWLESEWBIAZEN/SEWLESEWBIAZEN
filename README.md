@@ -4,7 +4,9 @@
 
 **TypeScript · React · Next.js · Node.js · .NET · PostgreSQL**
 
-I build production-grade web applications and enterprise systems, with a focus on backend engineering, system architecture, integrations, and reliable deployment.
+I've contributed to enterprise systems at Ethiopian Airlines, including production AI workflows that process Salesforce customer cases using RAG, AI agents, Claude and n8n automation. I also build full-stack platforms for startups and international clients, working with React, Next.js, Node.js, .NET, FastAPI, PostgreSQL, and Docker.
+
+I build production-ready web applications, AI-powered workflows (Claude and MCP), RAG systems , AI agents (having Anthropic models as a brain), and business automation. I work across the full stack; from frontend and backend architecture to databases, AI integrations, workflow orchestration, and cloud deployment.
 
 ### What I work with
 
